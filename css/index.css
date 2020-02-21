@@ -1,0 +1,16 @@
+img {
+    width: 600px;
+    height : 170px;
+    margin-top: 10px;
+    box-shadow: 5px 5px 5px red ;
+}
+.slot {
+    width: 600px;
+    height: 170px;
+    display: block;
+}
+.frames {
+    width: 602px;
+    height: 925px;
+    margin-left: 500px ;
+}
